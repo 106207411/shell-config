@@ -1,0 +1,10 @@
+<--------WSL2 Ubuntu-18.04 settings--------->
+Bashrc
+Zshrc
+Oh-my-zsh
+Powerline 10k zsh
+https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh
+
+https://holychung.medium.com/%E5%88%86%E4%BA%AB-oh-my-zsh-powerlevel10k-%E5%BF%AB%E9%80%9F%E6%89%93%E9%80%A0%E5%A5%BD%E7%9C%8B%E5%A5%BD%E7%94%A8%E7%9A%84-command-line-%E7%92%B0%E5%A2%83-f66846117921
+
+https://www.onejar99.com/terminal-iterm2-zsh-powerlevel10k/
